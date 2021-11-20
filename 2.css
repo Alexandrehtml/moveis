@@ -2,7 +2,7 @@
 
 
 .botao{
-    background-color: #883e8d;
+    background-color: #a968ad;
     color: rgb(255, 255, 255);
     display: inline-block;
     border-radius: 15px;
@@ -30,28 +30,3 @@
     font-size: 1.5em;
     margin-right: 5px;
 }
-
-body{
-    background-color: #7F797F;
-
-}
-
-
-
-header{
-    background-color:#956397 ;
-    width: 98%;
-    box-shadow: 4px 4px 4px rgb(56, 52, 52);
-    border-radius: 15px;
-    padding: 6px;
-    border: 1px solid rgb(56, 55, 55);
-    margin: auto;
-    margin-bottom: 6px;
-    
-
-}
-
-
-
-
-
